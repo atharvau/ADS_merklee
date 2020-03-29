@@ -8,7 +8,7 @@ Merkle trees are used in distributed systems for efficient data verification. Th
 
 ## HOW TO USE
 
-1.  ### Open the following URL =>
+1.  ### Open the following URL => [https://adsmerklee.netlify.com/](https://adsmerklee.netlify.com/)
     ![enter image description here](https://i.imgur.com/kOksQNR.png)
 
 2) ### Add Data In Inputs Data 1 , Data 2 , Data 3 , Data 4 and Click on Generate Merklee Tree
